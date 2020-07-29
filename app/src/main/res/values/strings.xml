@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Naviagtion_Menu_Drawer_Kotlin</string>
+    <string name="title">Title</string>
+    <string name="you_can_write_something_else_here">You can write something else here</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="products">Products</string>
+    <string name="my_profile">My Profile</string>
+    <string name="services">Services</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="notifications">Notifications</string>
+</resources>
